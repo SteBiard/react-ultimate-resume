@@ -1,287 +1,423 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Stéphane Biard",
+        "label": "Data Analyst and Software Engineering enthusiast",
+        "picture": "IMG2209.jpg",
+        "email": "stephane.biard@gadz.org",
+        "phone": "0662053809",
+        "website": "https://www.linkedin.com/in/st%C3%A9phane-biard-1b606265/",
+        "summary": "Getting more and more into programming and data analytics in my daily mission while strenghtening the foundations with comprehensive learnings from the digital academy to become a profficient data analyst with a strong software engineering background.",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "",
+            "postalCode": "81310",
+            "city": "Lisle-sur-Tarn",
+            "countryCode": "FR",
+            "region": "Tarn"
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "network": "LinkedIn",
+                "username": "StephaneBiard",
+                "url": "https://www.linkedin.com/in/st%C3%A9phane-biard-1b606265/"
+            },
+            {
+                "network": "WeLoveDevs",
+                "username": "StephaneBiard",
+                "url": "TBD"
             }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "AIRBUS",
+            "position": "Ontology Specialist & Data Analyst Enthusiast",
+            "website": "https://www.airbus.com/",
+            "startDate": "2019-01-01",
+            "summary": "Developing two services to share ontologies and access data through ontologies in order to provide capabilities to share information in contexts where stakeholders cannot agree on common data schemas",
+            "location": "Toulouse, France",
+            "highlights": ["Python", "RDF/OWL,", "SPARQL", "FASTAPI", "React", "Neo4j", "MarkLogic", "Git"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
+            "name": "CAPGEMINI",
+            "position": "Senior Solution Architect - Semantic Web of Things",
+            "website": "https://www.capgemini.com/",
+            "startDate": "2018-01-01",
+            "endDate": "2019-01-01",
+            "summary": "Member of the Center of Excellence for Digital Manufacturing, developing the offer for Industrial Internet of Things.",
+            "location": "Toulouse, France",
+            "highlights": ["IoT with Thingworx", "Linux", "Neo4j", "Javascript"]
+        },
+        {
+            "name": "HCL / Geometric",
+            "position": "R&T Digital Manufacturing Solutions Manager",
+            "website": "https://www.hcltech.com/",
+            "startDate": "2016-01-01",
+            "endDate": "2018-01-01",
+            "summary": "Functionnaly leading a team developing a platform based on Industrial Internet of Thing and Semantic Web technologies to aggregate shopfloor data and manufacturing processes planning to predict task completion and recreate a 3D as built view of a product.",
+            "location": "Toulouse, France & Hamburg, Germany",
+            "highlights": ["Semantic web technologies", "IoT", "Marklogic", "Camtasia video edition"]
+        },
+        {
+            "name": "ALTEN",
+            "position": "Team Leader / System Engineer ATA 21 - Aircraft Air Conditioning Systems",
+            "website": "https://www.alten.com/",
+            "startDate": "2013-11-01",
+            "endDate": "2016-01-01",
+            "summary": "Member of the design office for Air Conditioning Systems ATA 21.",
+            "location": "Hamburg, Germany",
+            "highlights": ["Advanced Excel formula and macros", "Dymola"]
+        },
+        {
+            "name": "AIRBUS",
+            "position": "Thermodynamic simulation of A350XWB Air Conditioning Packs - Master Thesis",
+            "website": "https://www.airbus.com/",
             "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "endDate": "2013-07-01",
+            "summary": "Modelling and computing numerically the behavior of the air conditioning pack of an aircraft that regulates air temperature and inject pressurised air in the cabin.",
+            "location": "Hamburg, Germany",
+            "highlights": ["Dymola","Modelica", "Excel"]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "AIRBUS",
+            "position": "Lessons learnt from Extended Entreprise on A350XWB - Intern",
+            "website": "https://www.airbus.com/",
+            "startDate": "2012-06-01",
+            "endDate": "2012-10-01",
+            "summary": "Interview key program development stakeholders and gather the feedback about the implementation of new ways of working on A350XWB program in an Extended Entreprise organization.",
+            "location": "Hamburg, Germany",
+            "highlights": ["VB macros","Aircraft Air Conditioning design","SharePoint"]
+        },
+        {
+            "name": "Tolerie Industrielle Ingenierie",
+            "position": "Worker - Intern",
+            "website": "https://t-2i.fr/",
+            "startDate": "2011-03-01",
+            "endDate": "2011-01-01",
+            "summary": "Worked in a manufacturing company and got involved on various workstation from folding to packaging and painting",
+            "location": "Bordeaux, france",
+            "highlights": ["Metal sheet manufacturing","Painting","Packing","Workshop planification"]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "organization": "WWOOF",
+            "position": "Volunteer in organic farms",
+            "website": "https://wwoof.net/",
+            "startDate": "2011-06-01",
+            "endDate": "2011-09-01",
+            "summary": "Travelling through Ireland in different farms to help in field and with animals",
+            "highlights": ["English","Farm work","Cattle tending"]
         }
     ],
     "education": [
+      {
+          "institution": "Udacity & Airbus",
+          "area": "Artificial Intelligence",
+          "studyType": "Nanodegree",
+          "startDate": "2021-12-01",
+          "endDate": "2022-06-01",
+          "gpa": "",
+          "courses": ["Data Engineering","Deep Learning: Neural Networks","Constraint Satisfaction","Probabilistic Models","TimeSeries with DeepAR","Search, Optimization and Planning","Natural Language Processing", "Computer Vision", "Reinforcement Learning", "Skin Cancer Detection", "Python for Data Analysis"]
+      },
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "institution": "Udacity & Airbus",
+            "area": "Data Analysis",
+            "studyType": "Nanodegree",
+            "startDate": "2021-02-01",
+            "endDate": "2021-11-30",
+            "gpa": "",
+            "courses": ["Data analysis with Python","Practical Statistics","Data Wrangling","Supervised Machine Learning","Unserpervised Machine Learning","Data Visualization with D3JS","A/B Testing", "MongoDB"]
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
+            "institution": "Arts & Métiers Paristech",
+            "area": "Mechanical and Aerospace Engineering",
+            "studyType": "Engineer Degree",
+            "startDate": "2010-09-01",
+            "endDate": "2013-06-30",
+            "gpa": "",
+            "courses": ["Mechanical structure design","Load and aerodynamic simulation","Electronics","Fluid mechanics","Manufacturing Planing","Economics"]
+        },
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
+            "institution": "Queen's University of Belfast",
+            "area": "Mechanical and Aerospace Engineering",
+            "studyType": "Semester Abroad",
+            "startDate": "2012-01-01",
+            "endDate": "2012-06-30",
+            "gpa": "",
+            "courses": ["Thermal Combustion Engine","Composite Structures","Automation and Robotics"]
         }
     ],
+    "awards": [{
+      "title": "Data Analyst Nanodegree graduation",
+      "date":"2021-11-01",
+      "awarder": "Airbus",
+      "summary": "Completed the nanodegree and final project submission and presented to the award ceremony the result of my project."
+      }],
     "publications": [
         {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "name": "Semantic Technologies - Making Sense of Data",
+            "publisher": "Geometric - Product Innovation Congress 2016",
+            "releaseDate": "2016-01-01",
+            "website": "https://www.linkedin.com/in/st%C3%A9phane-biard-1b606265/overlay/1476870490276/single-media-viewer/",
+            "summary": "Publication with 2 colleagues on our opinion and approach in daily projects to use semantic web technologies to facilitate use of data in digital manufacturing applications."
         }
     ],
     "skills": [
+      {
+          "name": "Python",
+          "level": "Practitioner",
+          "value": 50,
+          "keywords": ["Python", "Programming", "RDFLib","Requests","FastAPI"]
+      },
+      {
+          "name": "AI",
+          "level": "Learner",
+          "value": 20,
+          "keywords": ["AILF", "Artifical Intelligence nanodegree", "AI", "Neural Networks", "Machine Learning"]
+      },
+
+            {
+          "name": "Data Analysis",
+          "level": "Graduated",
+          "value": 50,
+          "keywords": ["DALF", "Data Analyst nanodegree", "Python", "Pandas","Plotly","Matplotlib","Scikit learn", "Machine Learning"]
+      },
+      {
+          "name": "Semantic Web Technologies",
+          "level": "Specialist",
+          "value": 65,
+          "keywords": ["Ontology", "OWL", "RDF", "SPARQL", "Semantic Web", "Knoweledge Graph"]
+      }
+      ,
+      {
+          "name": "NoSQL Databases",
+          "level": "Practitioner",
+          "value": 50,
+          "keywords": ["Graph databases", "GraphDB", "Neo4j", "Marklogic", "MongoDb"]
+      }
+      ,
+      {
+          "name": "SQL",
+          "level": "Practitioner",
+          "value": 40,
+          "keywords": ["MySQL", "SQL", "SQL with python"]
+      }
+      ,
+      {
+          "name": "REST APIs",
+          "level": "Practitioner",
+          "value": 40,
+          "keywords": ["FASTAPI", "Swagger", "Docs"]
+      }
+      ,
+      {
+          "name": "GraphQL APIs",
+          "level": "Practitioner",
+          "value": 40,
+          "keywords": ["GrandStack", "GraphQL"]
+      }
+      ,
         {
             "name": "React",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
+            "level": "Built first app",
             "value": 20,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
+            "name": "Angular",
+            "level": "Done Tutorial",
+            "value": 5,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "HTML-CSS-Javascript",
+            "level": "Learner",
+            "value": 25,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Skywise",
+            "level": "Leaner",
+            "value": 10,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }, { "language": "Italien", "value": 15, "fluency": "Native speaker" } ],
+    "languages": [{ "language": "French", "value": 100, "fluency": "Native speaker" }, { "language": "English", "value": 90, "fluency": "Fluent" }, { "language": "German", "value": 75, "fluency": "Fluent but lack a bit of practice lately" }, { "language": "Spanish", "value": 15, "fluency": "School level" } ],
     "interests": [
         {
-            "name": "France europe gif by nike football",
-            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
-            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
-            "gifUser": {
-                "name": "Nike Football",
-                "profileUrl": "https://giphy.com/nikefootball/",
-                "isVerified": true,
-                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
-            }
-        },
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Renovations at home",
+            "gifUrl": "https://www.red-agency.fr/fichiers/reference/v-developper-le-trafic-vers-les-points-de-vente.gif"
         },
 
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Learning about programming on personal projects",
+            "gifUrl": "https://c.tenor.com/RyIeFJbJ6XcAAAAS/ingenieur-informaticien-informaticien.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Board games and Warhammer figurines",
+            "gifUrl": "http://img0.joyreactor.com/pics/post/gif-cosplay-space-marine-warhammer-40000-1609379.gif"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [{ "name": "Thomas Bachellerie", "reference": "Manager during my work at HCL/Geometric" },{ "name": "Laurent Villeneuve", "reference": "Manager during my work at Capgemini" },{ "name": "Lionel Marcouire", "reference": "Manager during my work at Airbus" },{ "name": "Hannah Edwards and Alireza Ghasemigharagoz", "reference": "In charge of the Digital Academy Nanodegrees" },{ "name": "Collaborators from various projects on demand", "reference": "Collaborators working technically with me who could testimony about various aspects of my work or older experiences." }],
     "projects": [
-        {
-            "index": 5,
-            "date": { "month": 11, "year": 2019 },
-            "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
-            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-            "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
-            "link": "https://lovely-movie.netlify.app/",
-            "name": "Lovely Movie",
-            "endDate": "2019-12-01"
-        },
-        {
-            "index": 2,
-            "date": { "month": 0, "year": 2020 },
-            "description": "Application de gestion de tâches réalisée avec ReactJs / Redux / Firebase :\nCréation de composants avec Styled Components, gestions de formulaires et validation des entrées, création d'une authentification, récupération / création / modification / suppression de tâches.",
-            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
-            "images": [{ "url": "https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4" }],
-            "link": "https://diary-todo.netlify.app/",
-            "name": "Journal d'une Todo",
-            "endDate": "2020-01-01"
-        },
+      {
+          "index": 0,
+          "date": { "month": 8, "year": 2021 },
+          "description": "Integrated to the System of System development team.\nBuilt a model predicting crude oil availability by country until 2100 and associated price.\nTools: Python Pandas, Scikit Learn, Plotly, Seaborn, Palantir Foundry Slate app, Object Oriented Programming",
+          "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+          "images": [{ "url": "https://www.reuters.com/resizer/Feftwn_XAwGxN4jCJxlDNsWzB8g=/1200x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EZDSYCFMUBL2HEPVU676NUZRIA.jpg" }],
+          "link": "https://core.skywise.com/shares/links/etxg6yr2dzlbi",
+          "name": "Oil availability and price prediction model",
+          "endDate": "2021-10-01"
+      },
+      {
+          "index": 1,
+          "date": { "month": 6, "year": 2021 },
+          "description": "Created a pipeline to clean raw SAP BoM data and calculate different types of reuse between helicopters models.\nCreated an hybrid tree-bar chart visualization in D3js to analyse large BoM reuse results.\nTools: Python Pandas, D3js, HTML, Javascript, CSS",
+          "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
+          "images": [{ "url": "https://www.helicopassion.com/images/WBL/WBL344/AHGamme2018h.jpg" }],
+          "link": "http://idlvsrv213:7778/hybrid.html",
+          "name": "Airbus Helicopters - Study of reuse in Bill of Material to enable mixed manufacturing lines",
+          "endDate": "2021-10-01"
+      },
+      {
+          "index": 2,
+          "date": { "month": 1, "year": 2020 },
+          "description": "Programming services that allow to generate SPARQL endpoint on top of data injected into an ontology to create a knowlegde graph of a domain or an application.\nImplementing consoles, automatic documentation generation and data cataloging to allow developers to discover the ontology through which data is exposed.\nTools: React, FastAPI, Python using RDFlib for manipulating ontologies.",
+          "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
+          "link": "http://idlvsrv213:7777/",
+          "name": "Ontology Based Data Access services",
+          "endDate": "2022-01-01"
+      },
+      {
+          "index": 3,
+          "date": { "month": 12, "year": 2021 },
+          "description": "Preparing data collection to create ad hoc reports on the Entreprise Architecture modelling.\nTools: Postman, GraphQL, Python Request, Jupyter Notebook.",
+          "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
+          "link": "",
+          "name": "GraphQL API exploration of the Enterprise Architecture platform",
+          "endDate": "2022-03-01"
+      },
         {
             "index": 4,
-            "date": { "month": 5, "year": 2020 },
-            "description": "Blog réalisé en Java JEE et Spring, avec création d'une base de données MySQL et connectée avec JDBC.",
+            "date": { "month": 6, "year": 2016 },
+            "description": "Research project to generate an As Built 3D status reporting based on data out of IoT from the shopfloor including Automated Guided Vehicles steering.\nTools: Thingworx, GraphDB, OPC-UA",
+            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
+            "images": [{ "url": "https://semantic-web-of-things.appspot.com/images/ISWC2016Tutorial/w3c_wot.png" }],
+            "link": "",
+            "name": "Semantic Web of Things - Helping Manufacturing Engineering get the As Built view",
+            "endDate": "2018-01-01"
+        },
+
+        {
+            "index": 5,
+            "date": { "month": 5, "year": 2019 },
+            "description": "Refactoring an existing Innovation Lab demonstration of IoT using PTC IoT platforms Thingworx.\nCreating Object Model, coding events' actions and building UI using widget based integrated solution.\nTools: Thingworx, Javascript.",
             "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
-            "images": [{ "url": "https://cdn.filestackcontent.com/rPp0wj4S2GhTr0qTcqOI" }],
-            "link": "https://btz-java-2003-pjt1-blog.javarover.wilders.dev/",
-            "name": "Charlie's Angels blog",
-            "endDate": "2020-06-01"
+            "link": "",
+            "name": "IoT connected extextend entreprise mock-up in Lego",
+            "endDate": "2019-12-31"
         },
-        {
-            "index": 3,
-            "date": { "month": 5, "year": 2020 },
-            "description": "** Pensée uniquement pour téléphone **\nApplication permettant de connaître la météo actuelle d'une ville. Réalisée afin de découvrir VueJs.",
-            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
-            "link": "https://appli-meteo.netlify.app/",
-            "name": "Application Météo",
-            "endDate": "2020-06-01"
-        },
-        {
-            "index": 1,
-            "date": { "month": 7, "year": 2020 },
-            "description": "Premières armes avec Angular et Typescript :\nMise en place d'un environnement Angular, développement d'une authentification avec Firebase, gestion des formulaires, utilisation d'observable avec RxJs.\n",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "link": "https://my-connected-library.netlify.app/",
-            "name": "Librairie Connectée",
-            "endDate": "2020-08-01"
-        },
+
         {
             "index": 6,
-            "date": { "month": 4, "year": 2019 },
-            "description": "Moteur de recherche basé sur le jeu World of Warcraft, premiers pas avec ReatJs.\nRequête à l'API Raider.io avec Axios.",
+            "date": { "month": 4, "year": 2015 },
+            "description": "Building test setup for hardware.\nRunning test on new air outlet design.\nAnalysing results.",
             "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
-            "images": [{ "url": "https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21" }],
-            "link": "https://wow-search-engine.netlify.app/",
-            "name": "WoW Search",
-            "endDate": "2019-05-01"
+            "link": "",
+            "name": "Air outlet calibration and test on real scale aircraft air distribution system mock-up",
+            "endDate": "2015-05-01"
         },
         {
-            "index": 0,
-            "date": { "month": 6, "year": 2020 },
-            "description": "Application réalisée en 24h (challenge de formation) avec Java JEE et Spring:\nGestion d’un CRUD, création d'une API Rest, ajout d'un environnement de production avec une base de données PostgreSQL hébergée sur Heroku.",
+            "index": 7,
+            "date": { "month": 6, "year": 2015 },
+            "description": "Processing raw data out of sprectrometer measures on aircraft.\nBuilding analysis to identify which substances where present in the air and identify potential anomalies with regards to design requirements.\nTools: Excel, VB macros",
             "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
-            "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
-            "link": "https://your-todos-list.herokuapp.com/",
-            "name": "Your Todo List",
-            "endDate": "2020-07-01"
+            "link": "",
+            "name": "Analysing results of mass sprectrometer measurements for Cabin Air Quality assessment",
+            "endDate": "2015-07-01"
+        },
+        {
+            "index": 8,
+            "date": { "month": 12, "year": 2014},
+            "description": "Compiling tests to perform for each system based on configuration management through modification stacking.\nTools: FUN2 for GTR creation",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "link": "",
+            "name": "Ground Test Requirements for all Air Conditioning Systems",
+            "endDate": "2013-11-01"
+        },
+        {
+            "index": 9,
+            "date": { "month": 12, "year": 2013 },
+            "description": "Generate design specification drawings and calibrate air systems based on airline chosen cabin layout.\nTools: Excel, Dymola",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "link": "",
+            "name": "Calibrating complete air distribution and extraction system for multiple airlines and programs",
+            "endDate": "2015-12-01"
+        }
+        ,
+        {
+            "index": 10,
+            "date": { "month": 6, "year": 2013 },
+            "description": "Design model of an air conditioning pack (turbo compressor, water extractor, heat exchangers and valves).\nPerform numerical computation (convergence and initial conditions settings).\nValidating model results against test bench data for different flight profiles.\nTools: Dymola, Modelica, Excel macros",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "link": "",
+            "name": "Thermodynamic simulation of aircraft air conditioning packs",
+            "endDate": "2013-01-01"
+        }
+        ,
+        {
+            "index": 11,
+            "date": { "month": 6, "year": 2010 },
+            "description": "Various experiences to combine practice with therory during studies.",
+            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
+            "link": "",
+            "name": "Casting, welding, machining, bending",
+            "endDate": "2013-07-01"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "After first 10 year of experience in Engineering, I have decided to focus on programming and especially the field of data analysis and artificial intelligence. My only concern at work is to contribute to a subject that is interesting and overall that will help someone and solve issues."
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" }
+                { "name": "Toulouse, France" },
+                { "name": "Albi, France" }
             ],
             "remoteFrequency": "regularly"
         },
         "currentJob": {
-            "issues": { "z": true, "boring_team": true }
+            "issues": { "z": false, "boring_team": false }
         },
-        "education": { "studiesLevel": null },
+        "education": { "studiesLevel": "master" },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 0,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingYears": 1.5,
+            "codingReason": "I am having fun with it and I find it as concrete as buiding walls.",
             "searchState": "activelySearching",
-            "experienceYears": 0,
-            "codeExperienceYears": null,
-            "otherExperienceYears": null
+            "experienceYears": 9,
+            "codeExperienceYears": 1.5,
+            "otherExperienceYears": 7.5
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/embed/playlist/6InkBibCv6Mvo9ECu9BIGA?utm_source=generator&theme=0"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Knowing that my work will help someone, and progressing on programming to have a strong competence that others can benefit of in many situations."
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "https://blog.dataiku.com/hs-fs/hubfs/DAC_7+Fundamental+Steps+to+Complete+a+Data+Analytics+Project.png?width=1410&name=DAC_7+Fundamental+Steps+to+Complete+a+Data+Analytics+Project.png",
             "alt": "Default Banner"
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 },
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
             { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
             { "type": "gifs", "variant": 0 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
